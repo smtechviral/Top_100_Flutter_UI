@@ -39,6 +39,8 @@ dependencies:
   get: ^4.7.3
   intl: ^0.20.2
   flutter_svg: ^2.2.3
+  curved_labeled_navigation_bar: ^2.0.6
+  sensors_plus: ^7.0.0
 
 dev_dependencies:
   flutter_test:
