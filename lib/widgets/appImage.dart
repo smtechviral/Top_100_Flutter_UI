@@ -11,6 +11,8 @@ class AppImages {
   static const String disLikeIcon = 'assets/images/heart.png';
   static const String likeIcon = 'assets/images/heartfill.png';
   static const String searchIcon = 'assets/images/search.png';
+  static const String trendIcon = 'assets/images/growth.png';
   static const String shop = 'assets/images/shope.png';
+  static const String userIcon = 'assets/images/user.png';
   static const String notificationPngIcon = 'assets/images/notification.png';
 }
