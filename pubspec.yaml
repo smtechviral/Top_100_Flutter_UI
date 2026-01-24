@@ -45,6 +45,7 @@ dependencies:
   google_fonts: ^6.2.1
   flutter_custom_clippers: ^2.1.0
   flare_flutter: ^3.0.2
+  neo_glass: ^1.0.1+2
 
 
 dev_dependencies:

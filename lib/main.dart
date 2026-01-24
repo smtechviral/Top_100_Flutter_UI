@@ -2,6 +2,7 @@
 import 'package:day_challenge_100/screens/flare_login.dart';
 import 'package:day_challenge_100/screens/glass_login_ui.dart';
 import 'package:day_challenge_100/screens/my_tasks_screen.dart';
+import 'package:day_challenge_100/screens/neo_glass_login_ui.dart';
 import 'package:day_challenge_100/screens/smart_home_ui.dart';
 import 'package:flutter/material.dart';
 
@@ -21,7 +22,7 @@ class MainApp extends StatelessWidget {
         primarySwatch: Colors.teal,
         fontFamily: 'Poppins',
       ),
-      home:  GlassLoginScreen(),
+      home:  QuantumLoginPage(),
     );
   }
 }
