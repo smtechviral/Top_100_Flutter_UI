@@ -36,6 +36,15 @@ This project demonstrates how to build a **high-quality Flutter app** suitable f
 
 ---
 
+### ☕ Support Me
+
+<a href="https://buymeacoffee.com/smtechviral" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+       alt="Buy Me A Coffee" 
+       style="height: 60px !important;width: 217px !important;" />
+</a>
+
+
 ## 🧠 Overview
 This Flutter app is developed using **industry-level best practices** focusing on:
 
@@ -86,6 +95,24 @@ This app follows **Clean Architecture**:
 ✅ Easy to maintain
 
 ---
+
+## 📱 App Screenshots
+
+<p float="left">
+  <img src="assets/screenshots/loginui.png" width="200" />
+  <img src="assets/screenshots/glassloginui.png" width="200" />
+  <img src="assets/screenshots/gredentloginui.png" width="200" />
+  <img src="assets/screenshots/musicloginui.png" width="200" />
+  <img src="assets/screenshots/movieui.png" width="200" />
+</p>
+
+<p float="left">
+  <img src="assets/screenshots/glasshomeui.png" />
+  <img src="assets/screenshots/smarthomeui.png" />
+  <img src="assets/screenshots/spotifypannel.png" width="200" />
+  <img src="assets/screenshots/playerui.png" width="200" />
+</p>
+
 
 ## 📂 Folder Structure
 ```text

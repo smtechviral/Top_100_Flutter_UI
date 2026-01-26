@@ -26,6 +26,7 @@ class LoginScreen extends StatelessWidget {
                       SizedBox(height: 40,),
                       LoginCard(),
                       SizedBox(),
+                      SizedBox(height: 20,),
                       DividerWithText(text: "Login With",),
                       SizedBox(height: 40,),
                       SocialLoginButtons()
