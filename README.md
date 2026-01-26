@@ -107,8 +107,8 @@ This app follows **Clean Architecture**:
 </p>
 
 <p float="left">
-  <img src="assets/screenshots/glasshomeui.png" />
-  <img src="assets/screenshots/smarthomeui.png" />
+  <img src="assets/screenshots/glasshomeui.png" width="200" />
+  <img src="assets/screenshots/smarthomeui.png" width="200" />
   <img src="assets/screenshots/spotifypannel.png" width="200" />
   <img src="assets/screenshots/playerui.png" width="200" />
 </p>
