@@ -15,4 +15,7 @@ class AppImages {
   static const String shop = 'assets/images/shope.png';
   static const String userIcon = 'assets/images/user.png';
   static const String notificationPngIcon = 'assets/images/notification.png';
+  static const String googleIcon = 'assets/images/google.png';
+  static const String facebookIcon = 'assets/images/facebook.png';
+  static const String appleIcon = 'assets/images/apple-logo.png';
 }

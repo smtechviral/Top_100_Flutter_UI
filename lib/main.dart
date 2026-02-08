@@ -1,7 +1,7 @@
-import 'package:day_challenge_100/screens/movie_uii.dart';
-import 'package:flutter/material.dart';
 
-import 'login_screen.dart';
+import 'package:day_challenge_100/screens/modern_otp_ui.dart';
+import 'package:day_challenge_100/screens/sign_up_screen.dart';
+import 'package:flutter/material.dart';
 
 void main() {
   runApp(const MainApp());
@@ -19,7 +19,7 @@ class MainApp extends StatelessWidget {
         primarySwatch: Colors.teal,
         fontFamily: 'Poppins',
       ),
-      home:  MovieDetailScreen(),
+      home:  OtpVerificationScreen(),
     );
   }
 }
